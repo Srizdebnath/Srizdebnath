@@ -55,9 +55,6 @@ Google Cybersecurity Basics - Demonstrating my commitment to building secure and
 <img src="https://github-readme-stats.vercel.app/api?username=Srizdebnath&show_icons=true&theme=radical" alt="Sriz Debnath's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srizdebnath&layout=compact&theme=radical" alt="Top Languages">
 </p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srizdebnath&theme=dark" alt="GitHub Streak">
-</p>
 </p>
 🚀 Future Aspirations : 
 
