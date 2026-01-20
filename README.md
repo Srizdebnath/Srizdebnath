@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="500" alt="Hacker Terminal" />
+  <img src="banner.gif" width="100%" alt="Hacker Terminal" />
 </div>
 
 <div align="center">
@@ -94,56 +94,48 @@ agent.execute_mission()
 ## ⚔️ `[ARSENAL] TECH STACK`
 
 <div align="center">
+  <p><i>A robust arsenal of tools for building autonomous agents, scalable infrastructure, and decentralized apps.</i></p>
+</div>
 
-### `🛠️ PRIMARY WEAPONS`
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=solidity,python,js,ts,rust,cpp,c&theme=dark" height="50"/>
+### `🚀 DEVOPS & AUTOMATION`
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0d1117" />
 
-### `⛓️ BLOCKCHAIN & DECENTRALIZED TECH`
-
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Hardhat-D8E7FF?style=for-the-badge&logo=hardhat&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Truffle-3D3D3D?style=for-the-badge&logo=truffle-suite&logoColor=white&labelColor=0d1117" />
-
-### `🧠 NEURAL NETWORKS (AI/ML)`
-
+### `🤖 AI / ML & AGENTS`
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
 
-### `🖥️ CORE INFRASTRUCTURE`
+### `🔗 BLOCKCHAIN DEVELOPMENT`
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" />
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,linux,docker,git&theme=dark" height="50"/>
+### `💻 FULL STACK (MERN)`
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117" />
 
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### `📊 SKILL MASTERY`
-```yaml
-Solidity:      ██████████░ 90%
-Python:        █████████░░ 85%
-MERN Stack:    ██████████░ 90%
-Rust:          ██████░░░░░ 50%
-Arch Linux:    ███████░░░░ 70%
-```
-
-</td>
-<td width="50%" align="center">
-
-### `🎯 FOCUS TARGETS`
-```yaml
-Solana Dev:    [Loading...] 55%
-AI Agents:     [Loading...] 40%
-ZK-Rollups:    [Pending...] 10%
-```
-
-</td>
-</tr>
-</table>
+### `🛠️ LANGUAGES & TOOLS`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0d1117" />
 
 </div>
 
@@ -157,16 +149,6 @@ ZK-Rollups:    [Pending...] 10%
 
 <img src="https://github-readme-stats.vercel.app/api?username=Srizdebnath&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=ff0080&border_color=00ff41&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srizdebnath&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&langs_count=8&hide_border=false&border_radius=10" width="49%" />
-
-<br><br>
-
-### `🐍 CONTRIBUTION SIGNATURE`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Srizdebnath/Srizdebnath/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Srizdebnath/Srizdebnath/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Srizdebnath/Srizdebnath/blob/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br>
 
