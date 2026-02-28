@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<!-- Mindflare Chatbot Widget Integration (auto-generated) -->
+<!-- Add this snippet to your HTML pages -->
+<script type="module">
+  import { Mindflare } from 'https://cdn.jsdelivr.net/npm/mindflare-sdk@0.2.0/dist/index.mjs';
+  const mf = new Mindflare({
+    email:        'YOUR_EMAIL',
+    password:     'YOUR_PASSWORD',
+    clientSecret: '5424f462-815e-4bc3-a9b9-83dd990bf149',
+    appId:        'ebb92bc7-4b1d-404e-92ac-cb12050f2b09',
+    apiKey:       '(retrieve from settings vault)',
+  });
+  mf.mountChat('#mindflare-chat');
+</script>
+<div id="mindflare-chat"></div>

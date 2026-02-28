@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mindflare Chatbot Integration</title>
+  <!-- Optional: Add any base styles here for a better demonstration -->
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+      margin: 0;
+      padding: 20px;
+      background-color: #f0f2f5;
+      color: #333;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+
+    p {
+      text-align: center;
+      max-width: 600px;
+      margin: 20px auto;
+      line-height: 1.6;
+    }
+
+    .content-area {
+      min-height: 80vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border: 2px dashed #ccc;
+      padding: 40px;
+      margin: 40px auto;
+      max-width: 90%;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+  </style>
+</head>
+<body>
+  <div class="content-area">
+    <h1>Welcome to Your App!</h1>
+    <p>
+      This is a simple page demonstrating the integration of the Mindflare chatbot. 
+      The chatbot should appear on this page as a floating widget once initialized.
+      Make sure you have configured your environment variables correctly in a <code>.env</code> file (based on <code>.env.example</code>) 
+      and that your build process or server exposes them to client-side JavaScript.
+    </p>
+  </div>
+
+  <!-- Mindflare SDK Script (Load from CDN) -->
+  <!-- This URL might change; always refer to the official Mindflare SDK documentation for the latest CDN link. -->
+  <script src="https://unpkg.com/mindflare-sdk/dist/mindflare-sdk.min.js"></script>
+
+  <!-- Your chatbot initialization script -->
+  <script src="./src/chatbot.js"></script>
+</body>
+</html>
