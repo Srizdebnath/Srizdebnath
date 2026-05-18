@@ -4,9 +4,7 @@
 
 <br>
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=%3E_%+INITIALIZING+DECENTRALIZED+PROTOCOL...;%3E_+ACCESSING+LEDGER+NODE+%E2%9C%93;%3E_+SRIZ+DEBNATH+%7C+@Srizdebnath;%3E_+BLOCKCHAIN+DEVELOPER+%F0%9F%9B%A0%EF%B8%8F;%3E_+SYSTEMS+&amp;+WEB3+ENGINEER+%F0%9F%90%A7;%3E_+BUILDING+THE+OPEN+WEB" alt="Typing SVG" />
-</div> -->
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41" alt="System Status" />
@@ -17,9 +15,8 @@
 
 <br>
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"> -->
 
-## [CLASSIFIED] OPERATIVE PROFILE
+## [CLASSIFIED] 
 
 <div align="center">
 <table border="0" width="100%">
@@ -58,7 +55,7 @@
 
 <br>
 
-### `💻 SOURCE CODE IDENTITY`
+### SOURCE CODE IDENTITY
 
 ```python
 class SrizDebnath:
@@ -86,7 +83,7 @@ agent.execute_mission()
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"> -->
 
-## [INTEL] DEPLOYMENT METRICS & ACHIEVEMENTS
+## [INTEL] 
 
 <div align="center">
   <h3>OPERATIVE MILESTONES</h3>
@@ -108,13 +105,16 @@ agent.execute_mission()
 <br>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <table border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Srizdebnath&show_icons=true&theme=radical&hide_border=true&title_color=00ff41&icon_color=ff0080&text_color=ffffff&bg_color=0d1117" alt="Sriz's GitHub Stats" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/REPOSITORIES-42-00ff41?style=for-the-badge&labelColor=161b22&color=00ff41" alt="Repositories" />
       </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srizdebnath&layout=compact&theme=radical&hide_border=true&title_color=00ff41&icon_color=ff0080&text_color=ffffff&bg_color=0d1117" alt="Sriz's Top Languages" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/TOTAL_STARS-17-ff0080?style=for-the-badge&labelColor=161b22&color=ff0080" alt="Total Stars" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/FOLLOWERS-19-00d4ff?style=for-the-badge&labelColor=161b22&color=00d4ff" alt="Followers" />
       </td>
     </tr>
   </table>
@@ -130,7 +130,7 @@ agent.execute_mission()
 
 
 
-## [ARCHIVES] MAIN OPS & ACTIVE SHOWCASE
+## [ARCHIVES]
 
 <div align="center">
   <p><i>Live telemetry and source code archives for primary systems, blockchain compilers, and decentralized platforms.</i></p>
@@ -149,7 +149,7 @@ agent.execute_mission()
 </div>
 
 
-## [ARSENAL] SYSTEM CONFIGURATION
+## [ARSENAL] 
 
 <div align="center">
   <p><i>A curated collection of systems languages, technical tools, decentralized networks, and infrastructures.</i></p>
@@ -189,7 +189,7 @@ agent.execute_mission()
 
 
 
-## [ROADMAP] ADVANCEMENT PATH
+## [ROADMAP] 
 
 <div align="center">
 
@@ -215,7 +215,7 @@ graph LR
 </div>
 
 
-## [OMNI-LINK] ESTABLISH UPLINK
+## [OMNI-LINK] 
 
 <div align="center">
 
