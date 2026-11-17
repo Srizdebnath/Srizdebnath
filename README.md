@@ -52,12 +52,13 @@ Kolkata Lead @ TigerGraph · Stellar & Midnight ambassador · B.Tech CSE @ GCELT
 
 ## 🌍 Open-Source Contributions
 
-Recent pull requests to:
+**Merged:**
 
-- [ethereum/kohaku](https://github.com/ethereum/kohaku) – post-quantum account fixes (hybrid signature checks in the ERC-4337 account)
-- [OpenZeppelin/openzeppelin-confidential-contracts](https://github.com/OpenZeppelin/openzeppelin-confidential-contracts)
-- [noir-lang/noir_bigcurve](https://github.com/noir-lang/noir_bigcurve)
-- [zk-kit/zk-kit.rust](https://github.com/zk-kit/zk-kit.rust)
+- [ethereum/py_ecc #170](https://github.com/ethereum/py_ecc/pull/170) – BLS: reject public keys and signatures of the wrong length
+- [OpenZeppelin/openzeppelin-contracts #6876](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6876) – clean up changesets already released in 5.7.0
+- [OpenZeppelin/openzeppelin-confidential-contracts #473](https://github.com/OpenZeppelin/openzeppelin-confidential-contracts/pull/473) – return `success` from `BatcherConfidential._join`, saving FHE operations
+
+**Open PRs** to [ethereum/kohaku](https://github.com/ethereum/kohaku), [huggingface/transformers](https://github.com/huggingface/transformers), [Consensys/gnark](https://github.com/Consensys/gnark), [worldcoin/semaphore-rs](https://github.com/worldcoin/semaphore-rs), [iden3](https://github.com/iden3), [zk-kit](https://github.com/zk-kit) and [noir-lang/noir_bigcurve](https://github.com/noir-lang/noir_bigcurve).
 
 ## ⚡ Stack
 
